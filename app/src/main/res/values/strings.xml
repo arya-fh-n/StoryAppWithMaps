@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">StoryAppFinal</string>
+
+    <!-- Simple string res -->
+    <string name="required">Required</string>
+    <string name="yes">Yes</string>
+    <string name="or"> or </string>
+    <string name="no">No</string>
+    <string name="logo" translatable="false">Logo</string>
+
+    <!-- Auth string res -->
+    <string name="min_password">Minimal 6 characters</string>
+    <string name="ph_name">Name</string>
+    <string name="ph_password">Password</string>
+    <string name="ph_email" translatable="false">Email</string>
+    <string name="invalid">Invalid</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="email_exist">Email already used</string>
+    <string name="ask_logout">Are you sure want to logout?</string>
+    <string name="ask_have_account">Already have an account?</string>
+    <string name="ask_no_account">Do not have an account?</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="login_failed">Login failed</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="register_to_login">Register success.</string>
+
+    <!-- Label -->
+    <string name="label_button" translatable="false">LABEL_BUTTON</string>
+    <string name="label_hint" translatable="false">LABEL_HINT</string>
+    <string name="label_title" translatable="false">LABEL_TITLE</string>
+    <string name="label_desc" translatable="false">LABEL_DESCRIPTION</string>
+    <string name="label_date" translatable="false">LABEL_DATE</string>
+    <string name="label_account_ask" translatable="false">LABEL_ASK</string>
+
+
+    <!-- Story string res -->
+    <string name="make_your_story">Make your story, the one and only</string>
+    <string name="story_image">Story image</string>
+    <string name="icon_user">icon user</string>
+    <string name="settings">Change language</string>
+    <string name="no_data">No data</string>
+    <string name="permission_failed">Failed to get permission</string>
+    <string name="failed_getting_image">Failed when getting image</string>
+    <string name="failed_launch_camera">Failed when launching camera.</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_gallery" translatable="false">Gallery</string>
+    <string name="btn_upload">Upload</string>
+    <string name="insert_image">Please insert an image</string>
+
+    <string name="fab_add_story">Add story</string>
+    <string name="story_created">Story created</string>
+    <string name="capture">Capture Photo</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="refresh">Refresh page</string>
+    <string name="error_occurred">"An error occurred"</string>
+    <string name="ph_description">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="retry">Try again</string>
+    <string name="story_by_map">Story by Maps</string>
+    <string name="normal_type" translatable="false">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type" translatable="false">Hybrid</string>
+    <string name="authentication">Authentication</string>
+    <string name="add_story">Add New Story</string>
+    <string name="details">Story Detail</string>
+    <string name="maps">Story in Maps</string>
+</resources>

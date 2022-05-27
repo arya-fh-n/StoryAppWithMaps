@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryAppFinal</string>
+
+    <string name="required">Wajib diisi</string>
+    <string name="yes">Ya</string>
+    <string name="or">atau</string>
+    <string name="no">Tidak</string>
+    <string name="min_password">Minimal 6 karakter</string>
+    <string name="ph_name">Nama</string>
+    <string name="ph_password">Kata sandi</string>
+    <string name="password">Kata sandi</string>
+    <string name="email_exist">Email sudah digunakan</string>
+    <string name="ask_logout">Apakah anda ingin logout?</string>
+    <string name="ask_have_account">Sudah punya akun?</string>
+    <string name="ask_no_account">Belum punya akun?</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Daftar</string>
+    <string name="logout">Logout</string>
+    <string name="login_failed">Login gagal</string>
+    <string name="no_internet">Tidak ada koneksi internet</string>
+    <string name="register_to_login">Daftar berhasil</string>
+    <string name="make_your_story">Buatlah ceritamu, satu-satunya</string>
+    <string name="story_image">Gambar story</string>
+    <string name="icon_user">Ikon pengguna</string>
+    <string name="settings">Ganti bahasa</string>
+    <string name="permission_failed">Gagal mendapatkan permission</string>
+    <string name="btn_camera">Kamera</string>
+    <string name="btn_upload">Unggah</string>
+    <string name="insert_image">Masukkan sebuah gambar</string>
+    <string name="fab_add_story">Tambah story</string>
+    <string name="story_created">Story berhasil dibuat</string>
+    <string name="failed_getting_image">Gagal mendapatkan gambar</string>
+    <string name="failed_launch_camera">Gagal meluncurkan kamera</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="capture">Ambil Foto</string>
+    <string name="switch_camera">Putar kamera</string>
+    <string name="refresh">Muat ulang</string>
+    <string name="invalid">tidak valid</string>
+    <string name="error_occurred">Terjadi kesalahan</string>
+    <string name="ph_description">Deskripsi</string>
+    <string name="retry">Coba lagi</string>
+    <string name="story_by_map">Story berdasarkan Maps</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Dataran</string>
+    <string name="authentication">Otentikasi</string>
+    <string name="add_story">Buat Story</string>
+    <string name="details">Detail Story</string>
+    <string name="maps">Story dalam Maps</string>
+</resources>
