@@ -64,7 +64,6 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         mMap.uiSettings.isZoomControlsEnabled = true
         mMap.uiSettings.isMapToolbarEnabled = false
         mMap.uiSettings.isMyLocationButtonEnabled = true
-        mMap.isMyLocationEnabled = true
         mMap.uiSettings.isCompassEnabled = true
 
         val token = intent.getStringExtra(EXTRA_TOKEN)
